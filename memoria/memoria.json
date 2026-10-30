@@ -1,0 +1,30 @@
+{
+  "hechos": [
+    {
+      "texto": "mi nombre es Pablo",
+      "fecha": "2026-10-29"
+    },
+    {
+      "texto": "soy desarrollador",
+      "fecha": "2026-10-29"
+    }
+  ],
+  "historial": [
+    {
+      "role": "user",
+      "content": "hola"
+    },
+    {
+      "role": "assistant",
+      "content": "Hola Pablo, ¿en qué puedo ayudarte hoy? 😊"
+    },
+    {
+      "role": "user",
+      "content": "a que me dedico?"
+    },
+    {
+      "role": "assistant",
+      "content": "¡Hola Pablo! 😊  \nTú eres desarrollador, así que te dedicas a crear software, aplicaciones o sistemas digitales. ¿Te gustaría que te ayudara con algo específico sobre desarrollo? 🚀"
+    }
+  ]
+}
